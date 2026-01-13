@@ -157,3 +157,46 @@ main > section{
 .sc img{
     filter: grayscale(100%);
 }
+#future-section-title{
+    border-left: 5px solid sandybrown;
+    padding: 20px;
+}
+.future-card .future-title{
+    font-weight: 600;
+    font-size: 1.25rem;
+   
+}
+.future-card{
+     padding: 30px;
+    box-shadow: 0 4px 30px 0 rgba(0, 0, 0, 0.06);
+    margin-bottom: 20px;
+    border-radius: 8px;
+}
+.future{
+    gap: 140px;
+}
+#ep{
+    padding: 45px 42px;
+    font-size: 1.5rem;
+    font-weight: 500;
+    margin-left: -100px;
+    margin-top: -100px;
+}
+#tp{
+    font-size: 4rem;
+    font-weight: 700;
+}
+.fa img{
+    width: 100%;
+}
+.fot{
+    background-color: #f6efe6;
+    padding: 20px;
+    text-align: center;
+    margin-top: 60px;
+}
+.fot p{
+    margin: 0;
+    font-size: 14px;
+    color: #8a7f72;
+}
